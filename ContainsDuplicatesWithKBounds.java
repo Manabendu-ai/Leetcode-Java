@@ -17,4 +17,7 @@ public class ContainsDuplicatesWithKBounds {
         }
         return false;
     }
+
+    // Time Complexity : O(n)
+    // Space Complexity : O(n)
 }

@@ -29,4 +29,7 @@ public class KFrequentElements {
 
         return heap.stream().mapToInt(Integer::intValue).toArray();
     }
+
+    // TimeComplecity : O(n log k)
+    // spaceComplxit : O(n)
 }

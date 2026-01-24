@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class FirstOccurenceInString {
     public int strStr(String haystack, String needle) {
         int h_len = haystack.length();
